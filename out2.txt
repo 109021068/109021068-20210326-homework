@@ -1,0 +1,281 @@
+�o���M�Q�Ү�-I368494-���ݧY�ɤߴ_���V�m�P�۰ʺʱ��^�и˸m�Τ�k
+		�o���H�G�d���p�B�ŧӷԡB�\����B���g�w
+		�M�Q�v�H�G��ߤ����j�ǡB��F�|��x�h���Щx�L���ɩe���|�x���a���`��|
+		�M�Q�v�����G2012�~7��21���2029�~1��9���
+(U.S.PatentNo.10,409,844)
+		MethodforExtractingMaximalRepeatPatternsandComputingFrequencyDistributionTables.
+		Applicant:Ching-TuWang,Taichung(TW)(Jing-DooWang)
+		Inventor:Ching-TuWang,Taichung(TW)(Jing-DooWang)
+		Period:2019.9.10-2038.2.23
+BookTitle:
+		"BioinformaticsintheEraofPostGenomicsandBigData"
+	Editedby:Prof.IbrokhimAbdurakhmonovPublisher:InTechOpenNovember2018ISBN:978-953-51-6056-4
+				Chapter:
+				Anovelapproachtomineforgeneticmarkersviacomparingclassfrequencydistributionsofmaximalrepeats
+					extractedfromtaggedwholegenomicsequencesJing-DooWang
+Editedby:Prof.IbrokhimAbdurakhmonov
+Publisher:InTechOpen
+November2018
+ISBN:978-953-51-6056-4
+
+				Chapter:
+				Anovelapproachtomineforgeneticmarkersviacomparingclassfrequencydistributionsofmaximalrepeats
+					extractedfromtaggedwholegenomicsequencesJing-DooWang
+BookTitle:DiscoveriesandBreakthroughsinCognitiveInformaticsandNaturalIntelligenceEditedby:YingxuWang,UniversityofCalgary,CanadaNovember2009ISBN:978-1-60566-902-1
+				Chapter28:ScalingBehaviorofMaximalRepeatDistributionsinGenomicSequences--ARandomizeTestFollowUpStudyJ.D.WangandKa-LokNg
+			
+Editedby:YingxuWang,UniversityofCalgary,Canada
+November2009
+ISBN:978-1-60566-902-1
+
+				Chapter28:ScalingBehaviorofMaximalRepeatDistributionsinGenomicSequences--ARandomizeTestFollowUpStudyJ.D.WangandKa-LokNg
+			
+
+		OnlineWebquerysystemforvariousfrequencydistributionsofbuspassengersinTaichungcityofTaiwan
+		Jing-DooWangandShin-HungPan*,Cheng-YuanHo,Shu-chuanLiao,Yao-NanLienandAchmadNurmandi(*:Correspondingauthor)
+	IETSmartCities(Specialissue:�@GeospatialSensing,Mining&AnalyticsforSmartCities)
+(Submitted)
+		ExtractingCommonDNASequencesinCompleteGenomesof7538VirusesandFiveselectedMammalsJing-DooWang,Yi-ChunWang,Rouh-MeiHuandJeffreyTsaiInternationalJournalofDataMiningandBioinformatics(IJDMB)(SCIE)
+ANovelApproachtoExtractSignificantTimeIntervalPatternsofVehiclesfromFreewayGantryTimestampSequencesJing-DooWangandMing-ChorngHwang
+AppliedSciences,2017,7(9),878;doi:10.3390/app7090878.(SCIE,IF=1.679)
+
+(SpecialIssue"SelectedPapersfromIEEEICASI2017")
+
+ExtractingSignificantPatternHistoriesfromTimestampedTextsusingMapReduceJing-DooWang
+JournalofSupercomputing,72(8),pp.3236-3260,DOI10.1007/s11227-016-1713-z,April2016
+(SCI,SCIE2014JCR,IF=0.858,RANK=56/102,COMPUTERSCIENCE,THEORY&METHODS)
+ShapeQueryforPatternHistoryinPubMedLiteraturesviaHaarWaveletJing-DooWang,Zhong-KaiJiang,Jui-ChiChen
+InternationalJournalofAdvancedInformationTechnologies(IJAIT),Vol.9;No.6.pp.67-76,December2015.	
+	CombinationTherapyUsingChelatingAgentandZincforWilson��sDisease.
+ANovelBLAST-BasedRelativeDistance(BBRD)MethodCanEffectivelyGroupMembersofProteinArginineMethyltransferasesandSuggesttheirEvolutionaryRelationship.
+MiningforRepresentativeRegionsofVirusGenusesviaProteinSequencesClusteringJing-DooWangandYi-ChunWangInternationalJournalofDataMiningandBioinformatics
+,Vol.9,No.3, (2013JCR,IF=0.655,Rank=48/65,MATHEMATICAL,COMPUTATIONALBIOLOGY)
+
+ComparingVirusClassificationusingGenomicMaterialsaccordingtoDifferentTaxonomicLevelsJing-DooWangJournalofBioinformaticsandComputationalBiology,
+Vol.11,No.6,1343003,November2013aspecialissueonGIW2013(SCIE(2013JCR,IF=0.931,Rank=42/52,MATHEMATICAL;COMPUTATIONALBIOLOGY)			
+
+AnApproachtoEvaluatetheFitnessofOneClassStructureviaDynamicCentroidsJing-DooWangandHsiang-ChuanLiuExpertSystemswithApplications,
+October2011,Vol.38,Issue11,
+pp.13764-13772.(SCI)(2011
+JCR,IF=2.203,Rank=22/111,COMPUTERSCIENCE,ARTIFICIALINTELLIGENCE)
+EvaluatingtheAmbiguitiesBetweenTwoClassesviaEuclidean
+DistanceJing-DooWangandHsiang-ChuanLiu
+AsianJournalofHealthandInformationSciences,March2009,Vol.4,
+No.1,pp.21-35
+ScalingbehaviorofMaximalRepeatDistributionsinGenomicSequencesJ.D.Wang,Hsiang-ChuanLiu,JeffreyJ.P.Tsai
+andKa-LokNg.
+TheInternationalJournalofCognitiveInformaticsandNatural
+Intelligence(IJCiNi),2008,2(3),pages31~42
+ExternalmemoryapproachtocomputethemaximalrepeatsacrossclassesfromDNAsequencesJing-DooWang,
+AsianJournalofHealthandInformationSciences,2006,Vol.1,
+Number3,pages276-295
+(ApreviousversionofconferencepaperwaspublishedinNCS
+2005)
+ImprovingLinearClassifierforChineseTextCategorization
+Jyh-JongTsayandJing-DooWang
+TheJournalofInformationProcessingandManagement(IP&M).(EI,
+SCIExpanded)
+Volume40,Issue2,March2004,pages223-237
+MiningPeriodicEventsfromRetrospectiveChineseNewsJing-DooWangandJyh-JongTsay
+InternationalJournalofComputerProcessingofOriental
+Languages(CPOL)
+Vol.15,No.4(December2002),pages361-377
+SpecialIssue:WebandWAPOrientalLanguagesMultimedia
+Computing
+DesignandEvaluationofApproachesforAutomaticChineseTextCategorization
+Jyh-JongTsayandJing-DooWang
+InternationalJournalofComputationalLinguisticsandChinese
+LanguageProcessing(CLCLP)
+Vol.5,No.2,August2000,pages43-58
+
+	ReducingtheGapbetweenPhenotypesandGenotypesviaComparingTaggedWholeGenomicSequencesJing-DooWangThe12thInternationalConferenceonAdvancementsinBioinformaticsandDrugDiscovery,
+(Adv.Bioinformatics2018)
+November26-27,2018Dublin,Ireland(JournalofProteomics\&Bioinformatics,ISBN0974-276X,DOI10.417/0974-276X-C5-1242)
+ConstructingtheRelationshipTreeofAllVirusesviaGenomicSequencesJing-DooWangandYi-ChunWangThe18thannualIEEEInternationalConferenceonBioinformaticsandBioengineering(BIBE2018),page10-13,October29-31,2018,Taichung,Taiwan.
+AnalyzingtheRegularitiesofPassengersaccordingtoDifferentTimeIntervalsviaLocalElectronicBusSystemDatainTaiwanJing-DooWang,Yao-NanLienandShinHungPan*(*Correspondingauthor)TheInstituteforOperationsResearchandtheManagementSciences(INFROMs2018)
+June17-20,2018,Taipei,Taiwan
+ExtractingtheCo-occurrencesofDNAMaximalRepeatsinbothHumanandVirusesJing-DooWang,Yi-ChunWang,Rouh-MeiHuandJeffreyTsaiThe17thIEEEInternationalConferenceonBioInformaticsandBioEngineering(BIBE2017)pages106-111,October23–25,2017.WashingtonDC,U.S.A.
+ANovelApproachtoImproveQualityControlbyComparingtheTaggedSequencesofProductTraceabilityJing-DooWang
+	DOI(https://doi.org/10.1051/matecconf/201820105002)(Publishedonline:14September2018)2017The3rdInternationalConferenceonInventions,29September–2October2017,SunMoonLake,Taiwan
+ANovelApproachtoExtractSignificantTimeIntervalsofVehiclesfromSuperhighwayGantryTimestampSequencesJing-DooWang,andMing-ChorngHwang,2017IEEEInternationalConferenceonAppliedSystemInnovation(IEEEICASI2017)May13-17,2017,Hotelemisia,Sapporo,Japan
+(FirstPrizePaperAward)
+(ExtendedversionsubmittedtoAppliedSciencesasaSpecialIssue"SelectedPapersfromIEEEICASI2017")
+Genome-wideFunctionalIdentificationofMaximalConsensusPatternsDerivedfromMultipleSpeciespiRNAs
+Wen-LingChan,Mei-ChunYeh,Jing-DooWang,,Jan-GowthChangandJeffreyTsaiThe16thannualIEEEInternationalConferenceonBioinformaticsandBioengineering(BIBE2016),October31November1,2016,Taichung,Taiwan.
+MiningDistinctiveDNAPatternsfromtheUpstreamofHumanCoding\&Non-CodingGenesviaClassFrequencyDistributionJing-DooWang,Wen-LingChan,CharlesC.N.Wang,Jan-GowthChangandJeffreyJ.P.Tsai2016IEEEConferenceonComputationalIntelligenceinBioinformaticsandComputationalBiology(CIBCB2016),5thto7thOctober2016,ChiangMai,Thailand.
+AStudyofComparingtheAmbiguityofExistingVirusTaxonomyStructuresUsing
+Protein'sRegionNamesintheVectorSpaceModelJing-DooWang2015IEEEConferenceon
+ComputationalIntelligenceinBioinformaticsandComputationalBiology(CIBCB
+2015),C-15004,August12-15,2015,NiagaraFalls,Canada
+
+ExtractingRetrospectivePatternsfromTime-StampedTextsAccordingToVariableQuery
+TimeIntervalJing-DooWangandWijayantoHeri*,(*Correspondingauthor)
+TheInternationalMulti-ConferenceonEngineeringandTechnologyInnovation2015
+			(IMETI2015)October30-November3,2015,Kaohsiung,Taiwan.
+ComparingVirusClassificationusingGenomicMaterialsaccording
+toDifferentTaxonomicLevelsJing-DooWangThe24rdInternationalConferenceonGenomeInformatics(GIW2013),December16-18,2013,Singapore
+(ThispaperisincludedasaspecialissueofJournalofBioinformaticsandComputationalBiology,Vol.11,No.6
+1343003,2013.aspecialissueonGIW2013(SCIE)(2013)
+
+
+(Poster)VirusClassificationviaGenomicSequencesFromDifferent
+TaxonomicLevelJing-DooWangThe23rdInternationalConferenceonGenomeInformatics(GIW2012),page76,December12-14,2012,National
+ChengKungUniversity,TainaninTaiwan
+
+(Poster)
+AComparisonstudyofVirusClassificationbyGenomeSequencesJing-DooWangThe11th 
+IEEEInternationalConferenceonBioinformaticsandBioengineering,pages270-273,24-26
+October2011,Taichung,Taiwan.
+ANovelApproachtoComputePatternHistoryforTrendAnalysis.Jing-DooWangThe8thInternational
+ConferenceonFuzzySystemsandKnowledgeDiscovery,,pages1796-1800
+26-28July2011,Shanghai,China.(EI)
+EvaluatingtheAmbiguityofClassStructuresviaInstanceNeighborEntropywithWeighting.
+
+EvaluatingtheAmbiguityofClassStructureusingDynamicCentroidsJing-DooWangandHsiang-ChuanLiu2009CACSInternationalAutomatic
+ControlConference,page87,Nov27-29,2009,Taipei,Taiwan.
+
+
+ANovelApproachforEvaluatingClassStructureAmbiguityJing-DooWang,Hsiang-ChuanLiu,Yao-ChugShitheInternational
+ConferenceonMachineLearningandCybernetics(ICMLC),pages1550-1555,
+July12-15,2009.(EI)
+EvaluatingtheAmbiguitiesofClassStructureviaEuclidean
+DistanceJing-DooWang.2008InternationalComputerSymposium(ICS2008),
+13-15Nov,Taiwan,R.O.C, Vol.2,pages293-298
+(Poster)
+SCALINGBEHAVIOROFMAXIMALREPEATDISTRIBUTIONSIN
+GENOMESEQUENCESJing-DooWang,Shing-Chuan
+LiuandNgKa-Lok.The
+4thAsia-PacificBioinformaticsConference(APBC2006),13-16
+Feb,2006.
+EvaluatingtheCorrelationBetweenTwoEventsFromRetrospectiveChineseNews,Jing-DooWangandJyh-JongTsay
+InternationalConferenceonChineseLanguageComputing(ICCLC2002).
+2002,pages1-7
+
+MiningPeriodicEventsfromtheChineseNewsJing-DooWangandJyh-JongTsay
+InternationalConferenceonChineseComputing,2001(ICCC2001),pages255-260,Singapore.
+
+AScalableApproachforChineseTermExtraction
+Jyh-JongTsayandJing-DooWang
+2000InternationalComputerSymposium(ICS2000),Taiwan,R.O.C,pages246-253
+
+
+ImprovingLinearClassifierforChineseTextCategorizationByErrorCorrection
+Jyh-JongTsayandJing-DooWang
+TheFifthInternationalWorkshoponInformationRetrievalwithAsianLanguages(IRAL2000)pages1--8,HongKong
+
+ImplementationandEvaluationofScalableApproachesforAutomaticChineseTextCategorization
+Jyh-JongTsay,Jing-DooWang,Chun-FuPaiandMing-KuenTsay
+The13thPacificAsiaConferenceonLanguage,InformationandComputation,
+				pages179-190,1999
+�x�����������u���N���q���f���H�ƥ�e�έp�d�ߨt��-�H�褸2015�M2016��~��Ƭ������g�w�B��H���i�ĤQ�K�����q��T�޳N�P���ά�Q�|�j�S�Oĳ�{�]BigDataonTrafficandTransportation�^	�A2018�~5��24-26��,��ߤ����j��/�f�^�L��
+����HadoopMapReduce�p��įध��s-�H����˦����v����
+	���۴šB���g�w2015���إ���t�ά�ǻP�u�{��Q�|�A2015�~7��17-19��,�j�P�j��
+
+	�˦����v��Ƥ��Ϊ��d��-�ǥ�Haar�p�i���g�w�B�����͡B����_2015�~��T��ް�ڬ��Q�|�[���͹q�l�׾�
+	The9thInternationalConferenceonAdvancedInformationTechnologies/ConsumerElectronicsForum(AIT/CEF2015),2015�~4��24�B25��,�¶���ޤj��,pages1239-1254
+
+	���s�����ϥΪ̤W�u�ɬq���R-�H���𬰨�
+	�����M�B���g�w,2014�Ʀ��޻P�зs�޲z��Q�|,2014�~6��14��,�ر�j��
+�Q��Hadoop�إߤ��˦����v��Ư��ޤ���@���g�w�B�d��޳
+	2014�~�ĥ|����������P���ά�Q�|,2014�~5��2�B3��,��߼���ޤj��
+
+	(Poster)ANovelApproachtoEvaluatetheRelativeDistanceofProteinsviaPearsoncorrelationcoefficient
+	Chin-HanChen,Yi-ChunWangandJingDooWang.��10���x�W�ͪ���T�P�t�Υͪ��Ǭ�Q�|(BIT2012),
+	October19-21,2012,��߶����j��,pages55-56
+
+	AStudyofVirusClassificationviaGenomicDNASequences
+	Jing-DooWangandJig-FuHuang(���i��)�ĤQ�����q��T�޳N�P���ά�Q�|(ITAOI2011),2011�~5��13�B14��,��߻O�F�j��,page44
+AStudyofVirusClassificationviaCodingSequence(CDS)
+	Jing-DooWangandYong-KaiLu(�c�i��)
+	�Ĥ@����������P���ά�Q�|(NCWIA2011),
+		2011�~4��29��,��߰����j��,page88
+
+	(Poster)TextTrendAnalysisviaSignificantTermHistory-AstudybasedonIndonesiaNews
+	Jing-DooWangandArieBudiansyah
+	StudentSymposiuminComputerScienceandInformationManagement,Taichung,Taiwan,August4-6,2010.
+
+	(Poster)����r���Ͷլ�s-�ǥ�PubMed���m
+	���g�w�B���q�n
+	StudentSymposiuminComputerScienceandInformationManagement,Taichung,Taiwan,August4-6,2010.
+
+	���إ���M�Q�Ͷլ�s-�ǥ���n�ƥ���v
+	���g�w�B�B�źa
+	2010�Ʀ줺�e�P�Ǽ����ξǳN��Q�|,pages29-35,����99�~5��25��,���^�޳N�ǰ|
+
+	EvaluatingtheAmbiguityofNon-LinearSeparableClassStructureviaInstanceNeighborEntropy
+	Jing-DooWangandYao-ChugShi(�Iģ��)�ĤG�Q������ɦV�޳N�����ά�Q�|,page54,Nov
+	20,2009,�F���j��
+
+	�����ĥ椬�@�Ϊ��Ѻ޲z��T�t�ά[�c����s�ЧQ�θ�Ʊ��ɧ޳N�ظm
+	����s�B�������B�L�t���B���g�w
+2008���y�A�Ȭ�Ǻ޲z�z�׻P��ȾǳN��Q,Oct17,2008,��߹��Ʈv�d�j��
+
+	����s�D�����ʨƥ󤧫���-�ǥ�Haar�p�i�ഫ
+	���g�w�B���u��B���q�nProceedingofNationalComputerSymposium2007(NCS2007),Taiwan,R.O.C.
+��]��ާ@���~�Ӱ�]BLAST��Ʈw���إ�
+	���L��B�I����B���g�w�B�����F�B�S�v�f 
+	ProceedingofNationalComputerSymposium2007(NCS2007),Taiwan,R.O.C.
+(Poster)AGenomicStudyofArchaearegarding
+	OxygenDemand
+	�j�߬�������ݨD����]���s
+	���g�w�B�J�Y���B�i���ġB�Q�Ϊ�
+	The23stWorkshoponCombinatorialMathematicsand
+ComputationalTheory
+	�ĤG�Q�|���զX�ƾǻP�p��z�׬�Q�|,
+	April27~28,2007
+
+	AnExternalMemoryApproachtoComputetheStatisticsofMaximalRepeatsfromWholeGenomeSequences
+	Jing-DooWang
+	ProceedingofNationalComputerSymposium2005(NCS2005),
+	page84,Taiwan,R.O.C.
+
+	DNASequences
+ClassificationviaRepresentativePatterns
+	Jing-DooWang,
+	The7thConferenceonChineseMedicineand
+Pharmacy,EngineeringTechnologyandApplicationstoChineseandWestern
+Medicine.
+	�ĤC���u�{��޻P�����������ά�Q�|,page16,June2004
+
+	ACaseStudyofPredictingtheClassofthe
+UnknownVirusesofssRNApositive-strandinNCBI
+
+	Jing-DooWang,
+	The21stWorkshoponCombinatorialMathematicsand
+ComputationalTheory
+	�ĤG�Q�@���զX�ƾǻP�p��z�׬�Q�|,pages249-256,May2004,
+	
+
+	Jyh-JongTsay,
+Yuan-GuWei,Jing-DooWang, 
+ProceedingofNationalComputerSymposium2003(NCS2003),pages369-376,Taiwan,
+R.O.C.
+
+���Ĥ��ĺ����۰ʤƷj�M��Ʈw
+	
+	������,�L�ӱ�,
+	���g�w,�L�^��,������, 
+	Proceedingsof
+�Ĥ����u�{��޻P����������ά�Q�|,pp.254-258,Sep2003,�O��,�x�W.
+���ں������ݺʱ�-���ڽc�޲z���g�w�B��R��B�B�ۨ}�B���t�@�ĤT�����q��T�޳N�P���ά�Q�|,2003,pages278-283.
+ImprovingLinearClassifierforChineseTextCategorizationJyh-JongTsayand
+	Jing-DooWangProceedingofNationalComputerSymposium2001(NCS2001),pagesB178-B188,Taiwan,R.O.C.
+	
+ComparingClassifiersforAutomaticChineseTextCategorizationJyh-JongTsayand
+	Jing-DooWangProceedingofNationalComputerSymposium1999(NCS'99),pagesB-274--B-281,
+Taiwan,R.O.C.
+
+	TermSelectionwithDistributionalClusteringforChineseText
+ClassificationusingN-gramsJyh-JongTsayandJing-DooWang
+ROCLING1999,pages151-170,1999.
+	
+(Master)ScalableParallelAlgorithmforAll-Nearest-NeighborsProblemsJyh-JongTsayand
+	Jing-DooWangProceedingofNationalComputerSymposium1993(NCS'93),R.O.C.V.2.pages955-962
+	
+��ߤ����j�Ǹ�T�u�{�ҺӤh�פ�(1993.6)
+��ߤ����j�Ǹ�T�u�{���դh�פ�(2002.6)
+
+���g�w�A"����������������ܤ�k�����"�A
+��޾ǳ��A�ĥ|���A����90�~����App.227-243.
+
+p>
